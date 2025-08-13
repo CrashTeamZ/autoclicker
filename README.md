@@ -1,1 +1,3 @@
-# autoclicker
+# AutoClicker DLL
+Автокликер написанный на C++ подойдет под VimeWorld/Minecraft
+На букву R у вас включается автокликер в майнкрафте
